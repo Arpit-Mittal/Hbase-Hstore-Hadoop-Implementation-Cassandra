@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionList>
+	<Action>
+		<Name>View Profile, VP</Name>
+		<frequency>10</frequency>
+	</Action>
+	<Action>
+		<Name>List Friends, LF</Name>
+		<frequency>2</frequency>
+	</Action>
+	<Action>
+		<Name>View Friend Requests, VFR</Name>
+		<frequency>6</frequency>
+	</Action>
+	<Action>
+		<Name>Invite Friend, IF</Name>
+		<frequency>100</frequency>
+	</Action>
+	<Action>
+		<Name>Invite Friend, IF</Name>
+		<frequency>100</frequency>
+	</Action>
+	<Action>
+		<Name>Accept Friend Request, AFR</Name>
+		<frequency>56</frequency>
+	</Action>
+	<Action>
+		<Name>Accept Friend Request, AFR</Name>
+		<frequency>56</frequency>
+	</Action>
+	<Action>
+		<Name>Accept Friend Request, AFR</Name>
+		<frequency>56</frequency>
+	</Action>
+	<Action>
+		<Name>Accept Friend Request, AFR</Name>
+		<frequency>56</frequency>
+	</Action>
+	<Action>
+		<Name>Accept Friend Request, AFR</Name>
+		<frequency>56</frequency>
+	</Action>
+	<Action>
+		<Name>Reject Friend Request, RFR</Name>
+		<frequency>18</frequency>
+	</Action>
+	<Action>
+		<Name>Reject Friend Request, RFR</Name>
+		<frequency>18</frequency>
+	</Action>
+	<Action>
+		<Name>Thaw Friendship, TF</Name>
+		<frequency>178</frequency>
+	</Action>
+	<Action>
+		<Name>Thaw Friendship, TF</Name>
+		<frequency>178</frequency>
+	</Action>
+	<Action>
+		<Name>Thaw Friendship, TF</Name>
+		<frequency>178</frequency>
+	</Action>
+	<Action>
+		<Name>View Top-K Resources, VTR</Name>
+		<frequency>3</frequency>
+	</Action>
+	<Action>
+		<Name>View Comments on a Resource, VCR</Name>
+		<frequency>1</frequency>
+	</Action>
+	<Action>
+		<Name>Post Comment on a Resource, PCR</Name>
+		<frequency>316</frequency>
+	</Action>
+	<Action>
+		<Name>Delete Comment from a Resource, DCR</Name>
+		<frequency>32</frequency>
+	</Action>
+</ActionList>	

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tables>
+    <Table>
+        <Name>User</Name>
+        <Attributes>userid,USERNAME,PW,FNAME,LNAME,GENDER,DOB,JDATE,LDATE,ADDRESS,EMAIL,TEL,confCnt,pendCnt,rscCnt</Attributes>
+    </Table>
+    <Table>
+        <Name>confFriendship</Name>
+        <Attributes>inviterid,inviteeid</Attributes>
+    </Table>
+    <Table>
+        <Name>pendFriendship</Name>
+        <Attributes>inviterid,inviteeid</Attributes>
+    </Table>
+    <Table>
+        <Name>Resources</Name>
+        <Attributes>rid,creatorid,walluserid,body,doc</Attributes>
+    </Table>
+    <Table>
+        <Name>Manipulation</Name>
+        <Attributes>mid,modifierid,rid,resourcecreatorid,timestamp,type,content</Attributes>
+    </Table>
+</Tables>
